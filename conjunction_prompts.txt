@@ -1,0 +1,9 @@
+Generate an image of either an apple or an orange.
+Generate an image of apple and orange.
+Draw an apple and an orange.
+Draw either an apple or an orange.
+Generate an image of either an apple or an orange.
+It was sunny but now it is raining.
+It was rainy but now it is sunny.
+The bottle is taller than the cup.
+The cup is taller than the bottle.

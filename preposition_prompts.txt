@@ -1,0 +1,17 @@
+The ball is in the box.
+The ball is on the box.
+The ball is under the box.
+The ball is next to the box.
+The ball is behind the box.
+The ball is in front of the box.
+The ball is in between the boxes.
+He is walking up the stairs.
+He is walking down the stairs.
+The girl ran towards the dog.
+The girl ran from the dog.
+The lights are on.
+The lights are off.
+Oats with milk.
+Oats without milk.
+Coffee with creamer.
+Coffee without creamer.

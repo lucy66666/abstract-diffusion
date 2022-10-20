@@ -11,7 +11,7 @@ The girl ran towards the dog.
 The girl ran from the dog.
 The lights are on.
 The lights are off.
-Oats with milk.
-Oats without milk.
 Coffee with creamer.
 Coffee without creamer.
+Oats with milk.
+Oats without milk.

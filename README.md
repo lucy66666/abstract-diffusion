@@ -1,12 +1,3 @@
-## A Visual Tour of Current Challenges in Multimodal Language Models
-
-This codebase contains PyTorch implementation of the paper:
-
-> A Visual Tour Of Current Challenges In Multimodal Language Models.
-> Shashank Sonkar, Naiming Liu, and Richard G. Baraniuk.
-> [[Paper]](https://arxiv.org/abs/2210.12565)
-
-
 ### Running the model
 ```
 mkdir images
